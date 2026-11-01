@@ -10,8 +10,8 @@ Mejora la calculadora de la semana 7 con un conversor de unidades.
 4. Se rechazan campos vacíos, textos que no son números y valores negativos.
 
 ## Enlaces
-- Repositorio: https://github.com/stefanycamacho746-create/calculadora-et403
-- Sitio GitHub Pages: https://stefanycamacho746-create.github.io/calculadora-et403/
+- Repositorio:https://github.com/janeth-tiwi-et403/trabajo
+- Sitio GitHub Pages: https://janeth-tiwi-et403.github.io/trabajo/
 
 ## Archivos
 - `index.html`: estructura (calculadora y sección del conversor)
